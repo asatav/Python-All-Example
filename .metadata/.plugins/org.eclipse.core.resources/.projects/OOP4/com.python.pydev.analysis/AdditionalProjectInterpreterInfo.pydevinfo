@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\OOP4\com.python.pydev.analysis\v2_indexcache
+Abstraction.__init__|1574408337260785000|D:\PYTHON\OOP4\Abstraction\__init__.py
+strrepfun|1574409638196947000|D:\PYTHON\OOP4\strrepfun.py
+Abstraction.abstractclassdemo|1574408792371992000|D:\PYTHON\OOP4\Abstraction\abstractclassdemo.py
+Interface.__init__|1574409201508569000|D:\PYTHON\OOP4\Interface\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+10=Vehicle
+12=Auto
+11=Bus
+1=D:\PYTHON\OOP4\Abstraction\abstractclassdemo.py
+3=D:\PYTHON\OOP4\Interface\__init__.py
+6=strrepfun
+8=Oracle
+7=DBInterface
+2=Abstraction.abstractclassdemo
+4=Interface.__init__
+5=D:\PYTHON\OOP4\strrepfun.py
+9=Sybase
+-- END DICTIONARY
+-- START TREE 1
+14
+a|1|a!1^14#1*19@
+aut|1|Auto!1^9#7*17@
+b|1|b!1^12#1*19@
+bus|1|Bus!1^6#7*17@
+cla|1|classname!3^22#1*35@
+d|1|d!5^5#1*51@
+dbi|1|DBInterface!3^2#7*33@
+dbn|1|dbname!3^21#1*35@
+ora|1|Oracle!3^9#7*33@
+s|1|s!5^3#1*51@
+syb|1|Sybase!3^15#7*33@
+tod|1|today!5^2#1*51@
+veh|1|Vehicle!1^2#7*17@
+x|1|x!3^23#1*35@
+-- END TREE
+-- START TREE 2
+3
+con|3|connect!7&3^4#9*34@connect!8&3^10#9*34@connect!9&3^16#9*34@
+dis|3|disconnect!7&3^7#9*34@disconnect!8&3^12#9*34@disconnect!9&3^18#9*34@
+noo|3|noofwheels!10&1^4#9*18@noofwheels!11&1^7#9*18@noofwheels!12&1^10#9*18@
+-- END TREE

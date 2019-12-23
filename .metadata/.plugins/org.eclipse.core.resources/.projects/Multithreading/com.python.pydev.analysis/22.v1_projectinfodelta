@@ -1,0 +1,10 @@
+INSTUPQueueDemo
+D:\PYTHON\Multithreading\QueueDemo.py
+INFOS:&&2|1|2|0|3|6|5&&2|4|2|0|3|13|5&&3|5|2|0|3|18|1&&3|6|2|0|3|19|1&&3|7|2|0|3|20|1
+q=5
+D:\PYTHON\Multithreading\QueueDemo.py=3
+QueueDemo=2
+consume=4
+produce=1
+t1=6
+t2=7

@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\DataTypes\com.python.pydev.analysis\v2_indexcache
+str|1563739300319325000|D:\PYTHON\DataTypes\str.py
+bool|1563739049302691000|D:\PYTHON\DataTypes\bool.py
+complex|1563738317082346000|D:\PYTHON\DataTypes\complex.py
+float|1563737590988265000|D:\PYTHON\DataTypes\float.py
+list|1564383526621208000|D:\PYTHON\DataTypes\list.py
+int|1563737434978590000|D:\PYTHON\DataTypes\int.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=D:\PYTHON\DataTypes\list.py
+12=str
+5=D:\PYTHON\DataTypes\bool.py
+6=bool
+7=D:\PYTHON\DataTypes\float.py
+10=complex
+11=D:\PYTHON\DataTypes\str.py
+2=list
+8=float
+9=D:\PYTHON\DataTypes\complex.py
+4=int
+3=D:\PYTHON\DataTypes\int.py
+-- END DICTIONARY
+-- START TREE 1
+2
+val|1|val!1^1#1*19@
+x|5|x!3^1#1*35@x!5^1#1*51@x!7^1#1*67@x!9^1#1*83@x!11^1#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

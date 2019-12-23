@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Ifelse\com.python.pydev.analysis\v2_indexcache
+Expliciteswitch|1564384605691928000|D:\PYTHON\Ifelse\Expliciteswitch.py
+if|1564384059850707000|D:\PYTHON\Ifelse\if.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=Expliciteswitch
+1=D:\PYTHON\Ifelse\Expliciteswitch.py
+4=if
+3=D:\PYTHON\Ifelse\if.py
+-- END DICTIONARY
+-- START TREE 1
+8
+add|1|addition!1^1#5*18@
+div|1|division!1^10#5*18@
+m1|1|m1!3^1#5*34@
+m2|1|m2!3^4#5*34@
+m3|1|m3!3^7#5*34@
+mul|1|multiplication!1^7#5*18@
+ope|1|operation!1^13#5*18@
+sub|1|substraction!1^4#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

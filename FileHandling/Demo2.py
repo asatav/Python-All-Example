@@ -1,0 +1,6 @@
+f=open("abc.txt",'w')
+f.write("ASHISH SATAV\n")
+f.write("AJIT SATAV\n")
+f.write("ROHINI SATAV\n")
+print("Data written Successfully....")
+f.close()

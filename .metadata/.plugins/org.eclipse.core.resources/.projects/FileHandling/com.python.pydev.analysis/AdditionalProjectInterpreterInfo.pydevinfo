@@ -1,0 +1,93 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\FileHandling\com.python.pydev.analysis\v2_indexcache
+Demo2|1574836620084901000|D:\PYTHON\FileHandling\Demo2.py
+Demo|1574836245325466000|D:\PYTHON\FileHandling\Demo.py
+unzipfile|1574840792357373000|D:\PYTHON\FileHandling\unzipfile.py
+tellfunction|1574837557697427000|D:\PYTHON\FileHandling\tellfunction.py
+WorkingwithDirectriries.currentworkingdir|1574841270623013000|D:\PYTHON\FileHandling\WorkingwithDirectriries\currentworkingdir.py
+WorkingwithDirectriries.subdir|1574841366017593000|D:\PYTHON\FileHandling\WorkingwithDirectriries\subdir.py
+Handlingbinarydata|1574839166380253000|D:\PYTHON\FileHandling\Handlingbinarydata.py
+CSVfile|1574839833005087000|D:\PYTHON\FileHandling\CSVfile.py
+WorkingwithDirectriries.__init__|1574841188239269000|D:\PYTHON\FileHandling\WorkingwithDirectriries\__init__.py
+zipfilecreat|1574840411950705000|D:\PYTHON\FileHandling\zipfilecreat.py
+WorkingwithDirectriries.mulsubdir|1574841459838767000|D:\PYTHON\FileHandling\WorkingwithDirectriries\mulsubdir.py
+Demo8|1574837424379593000|D:\PYTHON\FileHandling\Demo8.py
+Demo7|1574837205729609000|D:\PYTHON\FileHandling\Demo7.py
+seekfunction|1574838049659891000|D:\PYTHON\FileHandling\seekfunction.py
+state|1574841703059618000|D:\PYTHON\FileHandling\state.py
+Demo4|1574836934195532000|D:\PYTHON\FileHandling\Demo4.py
+Demo3|1574836769100424000|D:\PYTHON\FileHandling\Demo3.py
+isfileexist|1574838352362823000|D:\PYTHON\FileHandling\isfileexist.py
+Demo6|1574837095593415000|D:\PYTHON\FileHandling\Demo6.py
+printnooflineall|1574838810851628000|D:\PYTHON\FileHandling\printnooflineall.py
+readdataformcsv|1574840088983338000|D:\PYTHON\FileHandling\readdataformcsv.py
+Demo5|1574836979778812000|D:\PYTHON\FileHandling\Demo5.py
+-- END DISKCACHE
+-- START DICTIONARY
+36
+1=D:\PYTHON\FileHandling\Handlingbinarydata.py
+5=D:\PYTHON\FileHandling\WorkingwithDirectriries\currentworkingdir.py
+6=WorkingwithDirectriries.currentworkingdir
+2=Handlingbinarydata
+19=D:\PYTHON\FileHandling\Demo5.py
+23=D:\PYTHON\FileHandling\zipfilecreat.py
+24=zipfilecreat
+36=state
+9=D:\PYTHON\FileHandling\Demo7.py
+4=printnooflineall
+12=readdataformcsv
+31=D:\PYTHON\FileHandling\Demo3.py
+27=D:\PYTHON\FileHandling\tellfunction.py
+34=Demo2
+26=unzipfile
+30=Demo
+29=D:\PYTHON\FileHandling\Demo.py
+35=D:\PYTHON\FileHandling\state.py
+28=tellfunction
+17=D:\PYTHON\FileHandling\seekfunction.py
+22=CSVfile
+25=D:\PYTHON\FileHandling\unzipfile.py
+15=D:\PYTHON\FileHandling\Demo4.py
+11=D:\PYTHON\FileHandling\readdataformcsv.py
+21=D:\PYTHON\FileHandling\CSVfile.py
+10=Demo7
+13=D:\PYTHON\FileHandling\isfileexist.py
+18=seekfunction
+16=Demo4
+7=D:\PYTHON\FileHandling\Demo6.py
+14=isfileexist
+32=Demo3
+8=Demo6
+3=D:\PYTHON\FileHandling\printnooflineall.py
+20=Demo5
+33=D:\PYTHON\FileHandling\Demo2.py
+-- END DICTIONARY
+-- START TREE 1
+22
+byt|1|bytes!1^3#1*19@
+cco|1|ccount!3^9#15*35@
+cwd|1|cwd!5^2#1*51@
+dat|9|data2!7^4#1*67@data!9^2#1*83@data!11^4#1*99@data!13^10#1*115@data!15^2#1*131@data1!7^2#1*67@data3!7^6#1*67@data!17^1#1*147@data!19^2#1*163@
+ead|1|eaddr!21^10#9*179@
+ena|1|ename!21^8#9*179@
+eno|1|eno!21^7#9*179@
+esa|1|esal!21^9#9*179@
+f|14|f!3^5#5*35@f!23^2#1*195@f!25^2#1*211@f!11^2#1*99@f!19^1#1*163@f!7^1#1*67@f!9^1#1*83@f!27^1#1*227@f!29^1#1*243@f!31^1#1*259@f!15^1#1*131@f!13^5#5*115@f!17^2#1*147@f!33^1#1*275@
+f1|1|f1!1^1#1*19@
+f2|1|f2!1^2#1*19@
+fna|2|fname!3^2#1*35@fname!13^2#1*115@
+lco|1|lcount!3^9#1*35@
+lis|1|list!31^2#1*259@
+n|1|n!21^5#5*179@
+nam|1|names!25^3#1*211@
+r|1|r!11^3#1*99@
+sta|1|states!35^2#1*291@
+tex|1|text!17^5#5*147@
+w|1|w!21^3#5*179@
+wco|1|wcount!3^9#8*35@
+wor|1|words!3^13#5*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

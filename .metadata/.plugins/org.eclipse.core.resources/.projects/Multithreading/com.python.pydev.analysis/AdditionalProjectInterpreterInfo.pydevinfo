@@ -1,0 +1,75 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Multithreading\com.python.pydev.analysis\v2_indexcache
+Demo2|1575270620477834000|D:\PYTHON\Multithreading\Demo2.py
+Demo1|1575269953566689000|D:\PYTHON\Multithreading\Demo1.py
+rlock|1575357494349670000|D:\PYTHON\Multithreading\rlock.py
+activecount|1575355237887608000|D:\PYTHON\Multithreading\activecount.py
+ident|1575354929829988000|D:\PYTHON\Multithreading\ident.py
+Settingnamegettingname|1575272889479614000|D:\PYTHON\Multithreading\Settingnamegettingname.py
+Semaphore|1575357882038845000|D:\PYTHON\Multithreading\Semaphore.py
+isAlive|1575355622182588000|D:\PYTHON\Multithreading\isAlive.py
+lock|1575356860305405000|D:\PYTHON\Multithreading\lock.py
+enumerate|1575355440152177000|D:\PYTHON\Multithreading\enumerate.py
+join|1575355870792808000|D:\PYTHON\Multithreading\join.py
+Demo4|1575272196966004000|D:\PYTHON\Multithreading\Demo4.py
+Demo3|1575271033882479000|D:\PYTHON\Multithreading\Demo3.py
+Demo6|1575272739170016000|D:\PYTHON\Multithreading\Demo6.py
+Demo5|1575272545641947000|D:\PYTHON\Multithreading\Demo5.py
+-- END DISKCACHE
+-- START DICTIONARY
+28
+8=activecount
+15=D:\PYTHON\Multithreading\rlock.py
+26=ident
+7=D:\PYTHON\Multithreading\activecount.py
+11=D:\PYTHON\Multithreading\join.py
+20=Semaphore
+17=D:\PYTHON\Multithreading\lock.py
+23=D:\PYTHON\Multithreading\Demo4.py
+27=Test
+5=D:\PYTHON\Multithreading\Demo2.py
+13=D:\PYTHON\Multithreading\enumerate.py
+1=D:\PYTHON\Multithreading\Demo6.py
+18=lock
+14=enumerate
+12=join
+25=D:\PYTHON\Multithreading\ident.py
+6=Demo2
+16=rlock
+28=MyThread
+9=D:\PYTHON\Multithreading\isAlive.py
+10=isAlive
+3=D:\PYTHON\Multithreading\Demo5.py
+21=D:\PYTHON\Multithreading\Demo3.py
+19=D:\PYTHON\Multithreading\Semaphore.py
+24=Demo4
+22=Demo3
+2=Demo6
+4=Demo5
+-- END DICTIONARY
+-- START TREE 1
+17
+beg|2|begintime!1^13#1*19@begintime!3^12#1*35@
+dis|5|display!5^2#5*50@display!7^3#5*66@display!9^3#5*82@display!11^3#5*98@display!13^3#5*114@
+dou|2|doubles!3^3#5*34@doubles!1^4#5*18@
+fac|1|factorial!15^4#5*130@
+i|1|i!13^14#1*115@
+l|3|l!15^3#1*131@l!17^3#1*147@l!19^3#1*163@
+myt|1|MyThread!21^2#7*177@
+num|2|numbers!1^12#1*19@numbers!3^11#1*35@
+obj|1|obj!23^6#1*195@
+res|1|results!15^12#5*130@
+squ|2|square!3^7#5*34@square!1^8#5*18@
+t|5|t!5^5#1*51@t!21^6#1*179@t!23^7#1*195@t!25^4#1*211@t!11^7#1*99@
+t1|7|t1!7^8#1*67@t1!9^8#1*83@t1!17^11#1*147@t1!19^11#1*163@t1!13^8#1*115@t1!1^14#1*19@t1!15^14#1*131@
+t2|7|t2!19^12#1*163@t2!1^15#1*19@t2!13^9#1*115@t2!15^15#1*131@t2!7^9#1*67@t2!17^12#1*147@t2!9^9#1*83@
+t3|4|t3!13^10#1*115@t3!7^10#1*67@t3!17^13#1*147@t3!19^13#1*163@
+tes|2|Test!23^2#7*193@test!25^2#5*210@
+wis|2|wish!17^4#5*146@wish!19^4#5*162@
+-- END TREE
+-- START TREE 2
+2
+dis|1|display!27&23^3#9*194@
+run|1|run!28&21^3#9*178@
+-- END TREE

@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Flowcontrol\com.python.pydev.analysis\v2_indexcache
+whileloop|1567670097225073000|D:\PYTHON\Flowcontrol\whileloop.py
+biggestno|1567669196160536000|D:\PYTHON\Flowcontrol\biggestno.py
+for|1567669996898335000|D:\PYTHON\Flowcontrol\for.py
+if|1567668570287738000|D:\PYTHON\Flowcontrol\if.py
+ifelifelse|1567669046598981000|D:\PYTHON\Flowcontrol\ifelifelse.py
+ifelse|1567668666404235000|D:\PYTHON\Flowcontrol\ifelse.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+12=whileloop
+7=D:\PYTHON\Flowcontrol\if.py
+3=D:\PYTHON\Flowcontrol\biggestno.py
+9=D:\PYTHON\Flowcontrol\for.py
+11=D:\PYTHON\Flowcontrol\whileloop.py
+4=biggestno
+10=for
+1=D:\PYTHON\Flowcontrol\ifelifelse.py
+8=if
+2=ifelifelse
+5=D:\PYTHON\Flowcontrol\ifelse.py
+6=ifelse
+-- END DICTIONARY
+-- START TREE 1
+6
+bra|1|brand!1^1#1*19@
+n1|1|n1!3^1#1*35@
+n2|1|n2!3^2#1*35@
+nam|2|name!5^1#1*51@name!7^1#1*67@
+s|1|s!9^1#1*83@
+x|1|x!11^1#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

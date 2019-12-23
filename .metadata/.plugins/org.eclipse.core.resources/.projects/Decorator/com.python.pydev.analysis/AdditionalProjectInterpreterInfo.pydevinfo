@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Decorator\com.python.pydev.analysis\v2_indexcache
+Demo1|1576129023350424000|D:\PYTHON\Decorator\Demo1.py
+Demo4|1576129744089648000|D:\PYTHON\Decorator\Demo4.py
+Demo3|1576129445067545000|D:\PYTHON\Decorator\Demo3.py
+demo2|1576129184657650000|D:\PYTHON\Decorator\demo2.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+2=Demo1
+5=D:\PYTHON\Decorator\Demo4.py
+7=D:\PYTHON\Decorator\Demo3.py
+1=D:\PYTHON\Decorator\Demo1.py
+6=Demo4
+3=D:\PYTHON\Decorator\demo2.py
+8=Demo3
+4=demo2
+-- END DICTIONARY
+-- START TREE 1
+5
+dec|5|decor!1^1#5*18@decor!3^1#5*34@decor!5^6#5*50@decorfunction!3^11#1*35@decor1!5^1#5*50@
+div|1|division!7^11#5*66@
+num|1|num!5^13#5*50@
+sma|1|smart_division!7^1#5*66@
+wis|2|wish!3^9#5*34@wish!1^9#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

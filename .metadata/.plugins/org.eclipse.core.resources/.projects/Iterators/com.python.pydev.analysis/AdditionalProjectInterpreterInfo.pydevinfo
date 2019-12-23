@@ -1,0 +1,17 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Iterators\com.python.pydev.analysis\v2_indexcache
+Iteration|1568484918531446000|D:\PYTHON\Iterators\Iteration.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=D:\PYTHON\Iterators\Iteration.py
+2=Iteration
+-- END DICTIONARY
+-- START TREE 1
+1
+my_|2|my_list!1^1#1*19@my_iter!1^2#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

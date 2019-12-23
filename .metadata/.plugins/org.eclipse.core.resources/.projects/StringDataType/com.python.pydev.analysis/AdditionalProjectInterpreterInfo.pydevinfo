@@ -1,0 +1,35 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\StringDataType\com.python.pydev.analysis\v2_indexcache
+formatString|1572261295380462000|D:\PYTHON\StringDataType\formatString.py
+reverseString1|1572261403878652000|D:\PYTHON\StringDataType\reverseString1.py
+Stringeg|1572248811093451000|D:\PYTHON\StringDataType\Stringeg.py
+sliceoperator|1572259694762162000|D:\PYTHON\StringDataType\sliceoperator.py
+spaceremovestring|1572261111424939000|D:\PYTHON\StringDataType\spaceremovestring.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+2=formatString
+9=D:\PYTHON\StringDataType\sliceoperator.py
+7=D:\PYTHON\StringDataType\reverseString1.py
+8=reverseString1
+6=Stringeg
+1=D:\PYTHON\StringDataType\formatString.py
+4=spaceremovestring
+10=sliceoperator
+5=D:\PYTHON\StringDataType\Stringeg.py
+3=D:\PYTHON\StringDataType\spaceremovestring.py
+-- END DICTIONARY
+-- START TREE 1
+7
+age|1|age!1^3#1*19@
+cit|1|city!3^1#1*35@
+i|1|i!5^2#1*51@
+nam|2|name!7^1#1*67@name!1^1#1*19@
+s|2|s!9^1#1*83@s!5^1#1*51@
+sal|1|salary!1^2#1*19@
+sci|1|scity!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

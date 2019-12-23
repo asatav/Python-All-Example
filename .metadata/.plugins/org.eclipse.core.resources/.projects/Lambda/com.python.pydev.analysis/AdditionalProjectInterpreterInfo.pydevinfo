@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Lambda\com.python.pydev.analysis\v2_indexcache
+filter|1576431414515258000|D:\PYTHON\Lambda\filter.py
+reduce|1576431757662885000|D:\PYTHON\Lambda\reduce.py
+Demo2|1576431195083707000|D:\PYTHON\Lambda\Demo2.py
+Demo1|1576431040378859000|D:\PYTHON\Lambda\Demo1.py
+map|1576431515636042000|D:\PYTHON\Lambda\map.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=filter
+2=Demo2
+8=Demo1
+3=D:\PYTHON\Lambda\filter.py
+1=D:\PYTHON\Lambda\Demo2.py
+7=D:\PYTHON\Lambda\Demo1.py
+5=D:\PYTHON\Lambda\map.py
+6=map
+-- END DICTIONARY
+-- START TREE 1
+4
+A|1|A!1^2#5*18@
+myl|2|mylist!3^2#1*35@mylist!5^2#1*51@
+new|3|newlist!3^3#1*35@newlist!5^3#1*51@new!7^2#5*66@
+t|1|t!1^4#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

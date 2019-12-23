@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\OOP3\com.python.pydev.analysis\v2_indexcache
+Polymorphism.operatorOverloading|1574406311856939000|D:\PYTHON\OOP3\Polymorphism\operatorOverloading.py
+Polymorphism.OverridingDemo1|1574408153543277000|D:\PYTHON\OOP3\Polymorphism\OverridingDemo1.py
+Polymorphism.operatoroverloading2|1574407357364738000|D:\PYTHON\OOP3\Polymorphism\operatoroverloading2.py
+Polymorphism.__init__|1574405727364508000|D:\PYTHON\OOP3\Polymorphism\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+4=Polymorphism.operatorOverloading
+9=P
+1=D:\PYTHON\OOP3\Polymorphism\OverridingDemo1.py
+2=Polymorphism.OverridingDemo1
+10=C
+5=D:\PYTHON\OOP3\Polymorphism\operatoroverloading2.py
+6=Polymorphism.operatoroverloading2
+7=Book
+12=Book.__init__
+8=Student
+3=D:\PYTHON\OOP3\Polymorphism\operatorOverloading.py
+11=Student.__init__
+-- END DICTIONARY
+-- START TREE 1
+9
+C|1|C!1^6#7*17@
+P|1|P!1^1#7*17@
+b1|1|b1!3^7#1*35@
+b2|1|b2!3^8#1*35@
+boo|1|Book!3^1#7*33@
+c|1|c!1^10#1*19@
+s1|1|s1!5^10#1*51@
+s2|1|s2!5^11#1*51@
+stu|1|Student!5^1#7*49@
+-- END TREE
+-- START TREE 2
+8
+__a|1|__add__!7&3^5#9*34@
+__g|1|__gt__!8&5^5#9*50@
+__i|2|__init__!7&3^2#9*34@__init__!8&5^2#9*50@
+__l|1|__le__!8&5^7#9*50@
+mar|3|marry!9&1^4#9*18@marry!10&1^7#9*18@marks!11&5^4#9*51@
+nam|1|name!11&5^3#9*51@
+pag|1|pages!12&3^3#9*35@
+pro|1|property!9&1^2#9*18@
+-- END TREE

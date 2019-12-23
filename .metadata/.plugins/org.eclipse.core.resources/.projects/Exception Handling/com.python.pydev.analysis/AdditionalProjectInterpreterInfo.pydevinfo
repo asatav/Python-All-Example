@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Exception Handling\com.python.pydev.analysis\v2_indexcache
+Demo2|1574668524183414000|D:\PYTHON\Exception Handling\Demo2.py
+Demo1|1574667089548094000|D:\PYTHON\Exception Handling\Demo1.py
+Demo3|1574668840803570000|D:\PYTHON\Exception Handling\Demo3.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+8=TooOlderException.__init__
+4=Demo2
+6=TooOlderException
+7=TooYoungException.__init__
+5=TooYoungException
+3=D:\PYTHON\Exception Handling\Demo2.py
+2=Demo3
+1=D:\PYTHON\Exception Handling\Demo3.py
+-- END DICTIONARY
+-- START TREE 1
+4
+age|1|age!1^9#1*19@
+too|2|TooYoungException!1^1#7*17@TooOlderException!1^5#7*17@
+x|1|x!3^2#5*35@
+y|1|y!3^3#5*35@
+-- END TREE
+-- START TREE 2
+2
+__i|2|__init__!5&1^2#9*18@__init__!6&1^6#9*18@
+msg|2|msg!7&1^3#9*19@msg!8&1^7#9*19@
+-- END TREE

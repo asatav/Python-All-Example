@@ -1,0 +1,45 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\List\com.python.pydev.analysis\v2_indexcache
+all|1572806536519400000|D:\PYTHON\List\all.py
+infoListfun|1572723386744454000|D:\PYTHON\List\infoListfun.py
+stringtolist|1572722834814741000|D:\PYTHON\List\stringtolist.py
+appendListfun|1572723692021390000|D:\PYTHON\List\appendListfun.py
+listusingsplit|1572722966120172000|D:\PYTHON\List\listusingsplit.py
+dynamicinput|1572722601312531000|D:\PYTHON\List\dynamicinput.py
+listfunction|1572722723102945000|D:\PYTHON\List\listfunction.py
+emptylist|1572722457277478000|D:\PYTHON\List\emptylist.py
+append2|1572723824980424000|D:\PYTHON\List\append2.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+7=D:\PYTHON\List\append2.py
+16=infoListfun
+18=all
+11=D:\PYTHON\List\emptylist.py
+1=D:\PYTHON\List\listusingsplit.py
+13=D:\PYTHON\List\dynamicinput.py
+12=emptylist
+8=append2
+9=D:\PYTHON\List\appendListfun.py
+4=stringtolist
+10=appendListfun
+2=listusingsplit
+6=listfunction
+14=dynamicinput
+5=D:\PYTHON\List\listfunction.py
+15=D:\PYTHON\List\infoListfun.py
+17=D:\PYTHON\List\all.py
+3=D:\PYTHON\List\stringtolist.py
+-- END DICTIONARY
+-- START TREE 1
+5
+l|3|l!1^2#1*19@l!3^2#1*35@l!5^1#1*51@
+lis|4|list!7^2#1*67@list!9^1#1*83@list!11^1#1*99@list!13^1#1*115@
+n|2|n!15^1#1*131@n!17^3#1*147@
+num|2|num!17^1#1*147@num1!17^12#1*147@
+s|2|s!1^1#1*19@s!3^1#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

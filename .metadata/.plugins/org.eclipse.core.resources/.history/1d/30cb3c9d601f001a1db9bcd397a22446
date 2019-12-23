@@ -1,0 +1,4 @@
+#lambda argument:expresion
+def new(a):
+    return a*a
+print(new(10))
