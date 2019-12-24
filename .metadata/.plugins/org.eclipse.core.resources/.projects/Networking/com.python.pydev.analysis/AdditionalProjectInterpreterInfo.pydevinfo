@@ -1,12 +1,17 @@
 -- VERSION_5
 -- START DISKCACHE_2
 D:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Networking\com.python.pydev.analysis\v2_indexcache
+KnowIPAdd|1576564935259807000|D:\PYTHON\Networking\KnowIPAdd.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+2=KnowIPAdd
+1=D:\PYTHON\Networking\KnowIPAdd.py
 -- END DICTIONARY
 -- START TREE 1
-0
+2
+add|1|addr!1^4#5*19@
+hos|1|host!1^2#1*19@
 -- END TREE
 -- START TREE 2
 0
