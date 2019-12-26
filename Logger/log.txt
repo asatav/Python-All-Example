@@ -1,0 +1,3 @@
+WARNING:root:warnning massage
+ERROR:root:error massage
+CRITICAL:root:critical  massage

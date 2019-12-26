@@ -1,3 +1,0 @@
-import re 
-count=0
-pattern=re.compile("ab")

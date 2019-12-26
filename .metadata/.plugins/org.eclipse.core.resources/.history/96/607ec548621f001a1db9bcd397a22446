@@ -1,3 +1,0 @@
-#reduce function in lambda
-from functools import reduce
-reduce(lambda a,b:a+b,[23,52,41,78,95,25])

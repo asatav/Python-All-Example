@@ -1,4 +1,0 @@
-#lambda argument:expresion
-x=lambda a:a*a
-x(3)
-print(x)
